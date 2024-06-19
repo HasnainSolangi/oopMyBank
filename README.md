@@ -1,4 +1,7 @@
 # MyBank - A Simple OOP Bank Application
+
+`npx oop-mybank-package`
+
  Welcome to MyBank, a simple command-line bank application built using Object-Oriented Programming (OOP) principles. This application allows users to perform basic banking operations such as depositing money, withdrawing money, and checking their balance.
 
 ### Objectives
